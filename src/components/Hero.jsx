@@ -6,7 +6,7 @@ function Hero() {
         <div className="w-2/3">
             <h1 className="text-7xl font-bold">Hola👋, <br /> Mi nombre es <br />
             <span className='inline-flex animate-text-gradient bg-gradient-to-l from-[#13B0F5] via-[#8678f9] to-[#E70FAA] bg-[200%_auto] bg-clip-text text-7xl text-transparent'>
-              Juan Perez
+              Victor Mardones
             </span>
             <br /> y soy desarrollador web</h1>
         </div>
