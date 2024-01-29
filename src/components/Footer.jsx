@@ -9,8 +9,8 @@ function Footer() {
             <img src="./logo.svg" alt="logo" className='' width={100} />
 
             <div className='flex gap-5'>
-                <p>+569 12345678</p>
-                <a href="mailto:juanperez@correo.com">juanperez@gmail.com</a>
+                <p>+569 66384395</p>
+                <a href="mailto:juanperez@correo.com">alonso24mat@gmail.com</a>
             </div>
 
 
@@ -35,7 +35,7 @@ function Footer() {
 
             </div>
 
-            <p>Hecho con 💓 por Juan Perez</p>
+            <p>Hecho con 💓 por Victor Mardones</p>
 
         </div>
 
