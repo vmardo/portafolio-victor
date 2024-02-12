@@ -13,7 +13,7 @@ function Hero() {
 
 
         <div className="w-1/3">
-            <img src="./avatar_final.png" alt="foto_perfil" width={350} />
+         
         </div>
 
 
